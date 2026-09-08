@@ -29,17 +29,21 @@ DSA in Py/
     ├── fibonacci-series.py          # Iterative O(N) Fibonacci sequence generation
     ├── GCD-euclidean.py             # Iterative Euclidean Algorithm for GCD
     ├── happy-number.py              # Cycle detection via Hash Set
+    ├── max-number-of-1s.py          # Maximum Consecutive 1s in a binary array
     ├── max-temperature-decrement.py # Max decrease between consecutive readings
+    ├── move-0s-to-end.py            # Move zeros to end in-place preserving order
     ├── palindrome.py                # Two-pointer palindrome validation
     ├── rebound-height.py            # Geometric decay calculation after N bounces
-    └── team-games.py                # Frequency counting & winner determination
+    ├── rotate-array-left.py         # Rotate array left by D positions
+    ├── team-games.py                # Frequency counting & winner determination
+    └── valid-anagram.py             # Valid Anagram check via character frequencies
 ```
 
 ---
 
 ## 📊 DSA Progress Tracker & Topic Tally
 
-> **Current Progress:** 6 Core Topics Mastered · 1 Topic In Progress · 8 Topics in Roadmap · **19 Problems Solved**
+> **Current Progress:** 6 Core Topics Mastered · 1 Topic In Progress · 8 Topics in Roadmap · **23 Problems Solved**
 
 - ✅ **1. Arrays & Lists** *(In-place operations, two-pointers, parity partition, subarray manipulation)*
 - ✅ **2. Strings** *(Palindromes, character frequencies, order-preserving traversals)*
